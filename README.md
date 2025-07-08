@@ -73,4 +73,3 @@ Each tool adds specific functionality to Claude’s local environment:
 
 ---
 
-Let me know if you want a Markdown version (`README.md`) or auto-generate this from code in future projects.
