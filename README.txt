@@ -1,7 +1,3 @@
-Here’s the **combined `README.txt`** with both the config explanation and full MCP tool breakdown:
-
----
-
 **README.txt – Claude Desktop Config + MCP Tools Guide**
 
 ---
@@ -55,19 +51,15 @@ Each tool adds specific functionality to Claude’s local environment:
 ### 🧩 Categorized Summary:
 
 **Storage & Data:**
-
 * `memory`, `sqlite`, `mysql`, `excel`
 
 **Web Automation:**
-
 * `puppeteer`, `browsermcp`, `playwright`, `file-converter`
 
 **Logic & Execution:**
-
 * `sequential-thinking`, `desktop-commander`
 
 **External Services:**
-
 * `github`, `pdf-generator`
 
 ---
